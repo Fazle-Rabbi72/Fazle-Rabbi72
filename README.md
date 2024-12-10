@@ -1,3 +1,4 @@
+![logo](https://github.com/Fazle-Rabbi72/Fazle-Rabbi72/blob/main/Screenshot%202024-12-10%20074042.jpg)
 <h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
 <h3 align="center">I’m Fazle Rabbi, a CSE student passionate about coding, problem-solving, and creating impactful software solutions.</h3>
 
